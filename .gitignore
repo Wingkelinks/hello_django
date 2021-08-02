@@ -3,6 +3,6 @@
 .venv/
 .env/
 Pipfile
-.vscode/
+.vscode
 *.sqlite3
 __pycache__/
